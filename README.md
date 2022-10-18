@@ -1,6 +1,6 @@
 ### Ola, sou Bruno Mendes
 
-- 👀 Sou um desenvolvedor que esta sempre buscando novos desafios na area de web
+- 👀 Sou um desenvolvedor web apaixonado por resolver problemas e buscar novos desafios
 - 🌱 Atualmente estou estudando desenvolvimento full-stack na [Trybe](https://www.linkedin.com/school/betrybe/)
 - 👨‍💻 Procuro colaborar com projetos na parte de front-end
 - 📫 Você pode entrar em contato com o email Bruno.mendes2804@gmail.com
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobmendes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Technologias
+#### Tecnologias
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
