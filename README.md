@@ -1,4 +1,4 @@
-### Ola, sou Bruno Mendes
+### Olá, sou Bruno Mendes
 
 Sou desenvolvedor NodeJs há 1 ano, atualmente estou trabalhando em
 projetos como freelancer, colaborei em diversos projetos e para empresas
