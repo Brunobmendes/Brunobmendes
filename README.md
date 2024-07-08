@@ -1,9 +1,11 @@
 ### Ola, sou Bruno Mendes
 
-- 👀 Sou um desenvolvedor full-stack apaixonado por resolver problemas e buscar novos desafios
-- 🌱 Estudei desenvolvimento full-stack na [Trybe](https://www.linkedin.com/school/betrybe/)
-- 👨‍💻 Procuro colaborar com projetos tanto em back-end quanto em front
-- 📫 Você pode entrar em contato com o email Bruno.mendes2804@gmail.com
+Sou desenvolvedor NodeJs há 1 ano, atualmente estou trabalhando em
+projetos como freelancer, colaborei em diversos projetos e para empresas
+de diferentes portes. Já trabalhei com tecnologias como NodeJs, NestJs,
+MongoDB, PostgreSQL e algumas outras.
+
+Você pode entrar em contato com bruno.mendes2804@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunobmendes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
